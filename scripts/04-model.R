@@ -39,6 +39,3 @@ saveRDS(
   first_model,
   file = "models/first_model.rds"
 )
-
-first_model <-
-  readRDS(file = "models/first_model.rds")
